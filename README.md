@@ -1,6 +1,6 @@
 # Easy TwitchAdBlocker
 
-One easy solution to block Twitch Ads using [uBlock Origin](https://ublockorigin.com/fr).
+One easy solution to block Twitch Ads using [uBlock Origin](https://ublockorigin.com/).
 
 ## Putting a script in uBlock Origin
 
@@ -21,3 +21,11 @@ One easy solution to block Twitch Ads using [uBlock Origin](https://ublockorigin
 ![Step 4](assets/step-4.png)
 
 5. You're done, enjoy https://www.twitch.tv/
+
+## Translation
+
+| Language | Status | Link |
+|---|---|---|
+| French | Done | [link](https://github.com/MoulinLouis/Easy-TwitchAdBlocker/raw/master/fr-FR/) |
+| Spanish | Todo | [link]() |
+| Deutch | Todo | [link]() |
